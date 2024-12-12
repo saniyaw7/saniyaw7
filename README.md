@@ -57,9 +57,9 @@
 
 ## 🛠️ Technical Skills
 
-**Programming Languages:** Python, Java, C++, PHP, PL/SQL, HTML, CSS, Kotlin  
+**Programming Languages:** Python, Java, JavaScript, C++, PHP, PL/SQL, HTML, CSS, Kotlin  
 **Tools & Software:** Canva, Adobe Premiere Pro, Adobe Lightroom, Adobe Photoshop  
-**Technologies:** IoT, Data Structures, Computer Graphics
+**Technologies:** ReactNative, React, IoT, Data Structures, Computer Graphics
 
 ---
 
