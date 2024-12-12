@@ -16,7 +16,7 @@
 - **Mumbai University**  
   *B.Sc. in Information Technology (First Class Distinction)*
 
-🎯 I aim to develop skills in software development, information security, and design to make meaningful contributions in the tech industry.
+## 🎯 I aim to develop skills in software development, information security, and design to make meaningful contributions in the tech industry.
 
 ---
 
