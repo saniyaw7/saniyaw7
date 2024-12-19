@@ -35,7 +35,17 @@
 ---
 
 ## 🚀 Projects
-
+- **FurCare**  
+  *Frontend Developer*  
+  - Developed a Web app which is compatible for Mobile view too. This is a full-stack web application designed to streamline pet care services, connecting pet
+    owners with pet service providers. It features a Node.js backend with authentication and database management and a
+    React-based frontend with reusable components for booking, browsing, and user management.
+    
+- **Pithla Bhakri**  
+  *Frontend & Backend Developer*  
+  - Java-based Android application for ordering food online from a restaurant. It uses Room Database for data storage,
+    providing a seamless user experience for browsing the menu and placing orders.
+    
 - **Student Mentor Diary**  
   *Frontend Developer*  
   - Developed a mobile app for assigning mentors to students based on quiz results.  
@@ -57,7 +67,7 @@
 
 ## 🛠️ Technical Skills
 
-**Programming Languages:** Python, Java, JavaScript, C++, PHP, PL/SQL, HTML, CSS, Kotlin  
+**Programming Languages:** JavaScript, React, React Native, Java, Python, C++, PHP, PL/SQL, HTML, CSS, Kotlin  
 **Tools & Software:** Canva, Adobe Premiere Pro, Adobe Lightroom, Adobe Photoshop  
 **Technologies:** ReactNative, React, IoT, Data Structures, Computer Graphics
 
