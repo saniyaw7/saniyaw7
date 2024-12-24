@@ -11,10 +11,10 @@
 🎓 **Education**  
 - **California State University, Monterey Bay**  
   *B.S. in Computer Science (Ongoing, Graduation: Spring 2025)*  
-- **Maharashtra State Board Of Technical Education**  
-  *Diploma in Computer Engineering (First Class Distinction)*  
 - **Mumbai University**  
   *B.Sc. in Information Technology (First Class Distinction)*
+- **Maharashtra State Board Of Technical Education**  
+  *Diploma in Computer Engineering (First Class Distinction)*  
 
 ## 🎯 I aim to develop skills in software development, information security, and design to make meaningful contributions in the tech industry.
 
