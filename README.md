@@ -1,7 +1,3 @@
-Here’s the updated version of your LinkedIn profile with the added **Skills** section, including badges for each:
-
----
-
 # 👩‍💻 Hi there, I'm Saniya Wairkar
 
 **Aspiring Software Developer | Graphic Designer**
@@ -31,11 +27,6 @@ Here’s the updated version of your LinkedIn profile with the added **Skills** 
 - Designed marketing materials, including pamphlets, flyers, posters, and logos.  
 - Contributed to the visual identity of a community-oriented organization.
 
-### **girlSTEMpowered**  
-*Social Media Handler & Content Designer*  
-- Managed the organization's Instagram page.  
-- Created engaging visual content to promote STEM education for girls.
-
 ### **Sparsh Villa**  
 *Website Developer (Feb 2023 – Aug 2023)*  
 *Contract | Hybrid, India*  
@@ -49,7 +40,11 @@ Here’s the updated version of your LinkedIn profile with the added **Skills** 
 - Developed a user-friendly and visually appealing website for the resort, focusing on intuitive navigation, responsive design, and an engaging user interface.  
 - Incorporated UI/UX best practices to enhance the user experience, ensuring accessibility and seamless interaction across devices.  
 - The website showcased the resort's amenities, services, and booking options with clear and attractive layouts.
-
+  
+### **girlSTEMpowered**  
+*Social Media Handler & Content Designer*  
+- Managed the organization's Instagram page.  
+- Created engaging visual content to promote STEM education for girls.
 ---
 
 ## 🚀 Projects
@@ -118,7 +113,3 @@ Here’s the updated version of your LinkedIn profile with the added **Skills** 
 ---
 
 ## Feel free to explore my projects and contributions. Let's connect and create something amazing together!
-
----
-
-Let me know if you'd like any more adjustments!
