@@ -72,10 +72,12 @@
     
 - **VP Gram**  
   *Frontend Developer*  
-  - Created a social media app for book lovers to share reviews and recommendations.
-
+  - Created a social media app designed for book lovers to share reviews, recommendations, and discuss their favorite reads.
+  - The app provides a user-friendly interface for seamless interaction, allowing users to connect over their shared interests in literature and expand their reading communities.
+    
 - **Research Paper on AbioCor Artificial Heart**  
-  - Conducted a comprehensive study on a groundbreaking medical device for end-stage heart failure.
+  - Conducted a comprehensive study on the AbioCor Artificial Heart, a groundbreaking medical device designed to treat end-stage heart failure.
+  - The research explored its innovative design, functionality, and potential impact on patients ineligible for heart transplants, offering a promising alternative for life-saving cardiac support.
 
 ---
 
