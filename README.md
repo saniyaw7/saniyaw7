@@ -58,11 +58,18 @@
   *Frontend & Backend Developer*  
   - Java-based Android application for ordering food online from a restaurant. It uses Room Database for data storage,
     providing a seamless user experience for browsing the menu and placing orders.
-    
+
+- **Library Management System**  
+  *Java Developer*  
+  - Developed a Java-based Library Management System that manages book inventories, lending, and member records.
+  - The system allows the admin to have full control over managing books, user accounts, and tracking borrow/return operations.
+  - The application streamlines library management processes and enhances efficiency by automating core functions related to book tracking and member interactions.
+ 
 - **Student Mentor Diary**  
   *Frontend Developer*  
-  - Developed a mobile app for assigning mentors to students based on quiz results.  
-
+  - Developed a mobile app that assigns mentors to students based on quiz results, helping streamline the mentoring process.
+  - The app features an intuitive interface to facilitate easy navigation and interaction, ensuring a smooth experience for both students and mentors.
+    
 - **VP Gram**  
   *Frontend Developer*  
   - Created a social media app for book lovers to share reviews and recommendations.
