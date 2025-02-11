@@ -24,7 +24,9 @@
 
 ### **Olympiah**  
 *Derector of Frontend Engineering (Jan 2025 – Currently Working)*  
-
+- Lead the architecture, development, and optimization of frontend systems.  
+- Ensure scalability and high performance.
+- Deliver seamless user experiences.
 
 ### **Urban Arts Collaborative**  
 *Design Intern (Feb 2024 – May 2024)*  
