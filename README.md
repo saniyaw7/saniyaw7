@@ -22,6 +22,10 @@
 
 ## 💼 Professional Experience
 
+### **Olympiah**  
+*Derector of Frontend Engineering (Jan 2025 – Currently Working)*  
+
+
 ### **Urban Arts Collaborative**  
 *Design Intern (Feb 2024 – May 2024)*  
 - Designed marketing materials, including pamphlets, flyers, posters, and logos.  
