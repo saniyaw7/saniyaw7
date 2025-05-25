@@ -10,7 +10,7 @@
 
 🎓 **Education**  
 - **California State University, Monterey Bay**  
-  *B.S. in Computer Science (Ongoing, Graduation: Spring 2025)*  
+  *B.S. in Computer Science (Graduated: May 2025)*  
 - **Mumbai University**  
   *B.Sc. in Information Technology (First Class Distinction)*
 - **Maharashtra State Board Of Technical Education**  
@@ -54,6 +54,12 @@
 ---
 
 ## 🚀 Projects
+- **Virtual Personal Trainer**  
+  *Full Stack Developer*  
+  - A cross-platform fitness app built with React Native and Expo, delivering personalized workout plans without the need for expensive trainers. Designed for seamless performance on both Android and iOS 
+    devices.
+
+    
 - **FurCare**  
   *Frontend Developer*  
   - Developed a Web app which is compatible for Mobile view too. This is a full-stack web application designed to streamline pet care services, connecting pet
