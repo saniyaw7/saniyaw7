@@ -23,7 +23,7 @@
 ## 💼 Professional Experience
 
 ### **Olympiah**  
-*Derector of Frontend Engineering (Dec 2024 – Currently Working)*  
+*Derector of  Engineering (Dec 2024 – Currently Working)*  
 - Lead the architecture, development, and optimization of frontend systems.  
 - Ensure scalability and high performance.
 - Deliver seamless user experiences.
